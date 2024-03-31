@@ -1,0 +1,16 @@
+body {
+  text-align: center;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-style:italic;
+  font-size: large;
+  background-image: url("https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvNDUwLWthcm9saW5hLWthYm9vbXBpY3MtMDI4OF8xLmpwZw.jpg");
+  background-size: cover;
+
+}
+
+div {
+  display: flex;
+  flex-direction: column;
+  border-radius: 50px;
+  background-color:rgb(255, 170, 139);
+}
